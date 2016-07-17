@@ -8,3 +8,4 @@ Fixed template bug
 Fixed Test issue-1 #2
 Trying out Jira integration 
 Close issue
+Mark issue as Done
