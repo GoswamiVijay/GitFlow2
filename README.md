@@ -10,3 +10,4 @@ Trying out Jira integration
 Close issue
 Mark issue as Done
 Cloase issue
+Mark as done.
